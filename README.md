@@ -2,6 +2,10 @@
 
 写 Android 音乐播放器，也折腾 Linux 桌面上跑 Android 的那点事。
 
+- 🎵 **Arris** —— 开源（GPLv3）Android 音乐播放器：网易云 / QQ / B站 三音源、双语逐字歌词、离线缓存、听歌识曲、一起听 · 主线 `4.1.5-gpl` / LTS `3.7.37-gpl`
+- 🐧 **Droidloom 贡献者** —— 在 NVIDIA + KWin 上跑 Android 的 presenter，负责真机验证与输入/窗口问题定位（#23 / #24 / #38）
+- 🗂 **开发看板**：[Arris 路线图](https://github.com/users/yaxiaiyuting/projects/1)
+
 ---
 
 ## Arris — Android 音乐播放器
