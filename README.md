@@ -2,7 +2,7 @@
 
 写 Android 音乐播放器，也折腾 Linux 桌面上跑 Android 的那点事。
 
-- 🎵 **Arris** —— 开源（GPLv3）Android 音乐播放器：网易云 / QQ / B站 三音源、双语逐字歌词、离线缓存、听歌识曲、一起听 · 主线 `4.1.5-gpl` / LTS `3.7.37-gpl`
+- 🎵 **Arris** —— 开源（GPLv3）Android 音乐播放器：网易云 / QQ / B站 三音源、双语逐字歌词、离线缓存、听歌识曲、一起听 · 主线 `4.1.8-gpl` / LTS `3.7.38-gpl`
 - 🐧 **Droidloom 贡献者** —— 在 NVIDIA + KWin 上跑 Android 的 presenter，负责真机验证与输入/窗口问题定位（#23 / #24 / #38）
 - 🗂 **开发看板**：[Arris 路线图](https://github.com/users/yaxiaiyuting/projects/1)
 
@@ -15,12 +15,12 @@
 
 | 线 | 版本 | 定位 |
 |---|---|---|
-| 主线 | `4.1.5-gpl` | 双源播放、歌单多选、离线缓存、实时通知、一起听 |
-| LTS | `3.7.37-gpl` | 老设备与保守用户的长期支持线 |
+| 主线 | `4.1.8-gpl` | 双源播放、歌单多选、离线缓存、实时通知、一起听 |
+| LTS | `3.7.38-gpl` | 老设备与保守用户的长期支持线 |
 
 - 仓库：[yaxiaiyuting/Arris](https://github.com/yaxiaiyuting/Arris)
 - 下载：[GitHub Releases](https://github.com/yaxiaiyuting/Arris/releases) · [官网](https://arris.de5.net) · [Gitee 镜像](https://gitee.com/yaxiaiyuting/arris)
-- 做过的事：歌单详情长按多选、离线 URL 可播状态、点击反馈不排队、生日祝福视觉重构、上游夹具一致性测试
+- 做过的事：歌单详情长按多选、离线 URL 可播状态、点击反馈不排队、生日祝福视觉重构、后台播放保护引导（按 OEM 自动跳转）、播放卡顿服务侧自愈、上游夹具一致性测试
 
 ## Droidloom 贡献者
 
