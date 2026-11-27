@@ -2,7 +2,7 @@
 
 写 Android 音乐播放器，也折腾 Linux 桌面上跑 Android 的那点事。
 
-- 🎵 **Arris** —— 开源（GPLv3）Android 音乐播放器：网易云 / QQ / B站 三音源、双语逐字歌词、离线缓存、听歌识曲、一起听 · 主线 `4.1.13-gpl` / LTS `3.7.38-gpl`
+- 🎵 **Arris** —— 开源（GPLv3）Android 音乐播放器：网易云 / QQ / B站 三音源、双语逐字歌词、离线缓存、听歌识曲、一起听 · 主线 `4.1.14-gpl` / LTS `3.7.38-gpl`
 - 🐧 **Droidloom 贡献者** —— 在 NVIDIA + KWin 上跑 Android 的 presenter，负责真机验证与输入/窗口问题定位（#23 / #24 / #38）
 - 🗂 **开发看板**：[Arris 路线图](https://github.com/users/yaxiaiyuting/projects/1)
 
@@ -15,7 +15,7 @@
 
 | 线 | 版本 | 定位 |
 |---|---|---|
-| 主线 | `4.1.13-gpl` | 双源播放、歌单多选、离线缓存、实时通知、一起听、取链地址族回退、库页表头收起 |
+| 主线 | `4.1.14-gpl` | 双源播放、歌单多选、离线缓存、实时通知、一起听、取链地址族回退、库页表头收起、后台复活链路加固 |
 | LTS | `3.7.38-gpl` | 老设备与保守用户的长期支持线 |
 
 - 仓库：[yaxiaiyuting/Arris](https://github.com/yaxiaiyuting/Arris)
